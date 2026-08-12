@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-orange: #E57200;
+  --color-brand-dark: #3D3D3D;
+  --color-brand-black: #111111;
+  --color-brand-bg: #0A0A0A;
+  --color-brand-green: #25D366;
+  --font-sans: 'Inter', sans-serif;
+  --font-display: 'Montserrat', sans-serif;
+}
+
+* {
+  cursor: none !important;
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Ekto Grupo",
+  "description": "Landing page de alta conversão para corretora de seguros premium",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
